@@ -1,0 +1,5 @@
+npc,name,cooldown_duration,min_dmg,max_dmg,aoe,priority,icon
+Bat,Bite,1,2,4,false,1,bite.png
+Goblin,Sword hit,1,2,6,false,1,rusty_sword.png
+Goblin,Backstab,3,4,6,false,3,backstab.png
+Orc,Axe swing,1,4,7,false,1,waraxe.png

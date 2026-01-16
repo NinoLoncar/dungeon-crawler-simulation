@@ -1,0 +1,4 @@
+npc,name,cooldown_duration,status_effect,aoe,friendly_targets,priority,icon
+bard,Epic song,6,Haste,true,true,3,notes.png
+bard,Bad tune,3,Short stun,false,false,4,bad_tune.png
+ranger,Flaming arrow,3,On fire,false,false,3,flaming_arrow.png

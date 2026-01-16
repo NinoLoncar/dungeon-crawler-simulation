@@ -1,0 +1,7 @@
+group_id,enemy_type,count
+bat_swarm,Bat,4
+mixed_small,Bat,2
+mixed_small,Goblin,1
+green_gang,Orc,1
+green_gang,Goblin,2
+orc_raiding_party,Orc,3

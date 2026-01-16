@@ -1,0 +1,8 @@
+x,y,connections,is_start,is_exit,enemy_group
+0,1,ES,false,false,green_gang
+0,2,NE,false,false,orc_raiding_party
+1,1,W,false,false,mixed_small
+1,2,WE,true,false,mixed_small
+2,0,S,false,true,bat_swarm
+2,1,NS,false,false,bat_swarm
+2,2,NW,false,false,bat_swarm

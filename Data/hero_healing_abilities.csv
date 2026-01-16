@@ -1,0 +1,2 @@
+npc,name,cooldown_duration,min_hp,max_hp,aoe,priority,icon
+priest,Healing prayer,3,5,7,false,3,healing.png

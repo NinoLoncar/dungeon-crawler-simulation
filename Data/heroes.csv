@@ -1,0 +1,5 @@
+id,name,max_hp,speed,fighting_style,voting_style,icon
+warrior,Warrior,22,5,bold,adventurous,warrior.png
+ranger,Ranger,18,8,opportunist,adventurous,ranger.png
+priest,Priest,14,5,opportunist,curious,priest.png
+bard,Bard,14,8,chaotic,cowardly,bard.png

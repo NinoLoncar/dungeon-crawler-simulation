@@ -1,0 +1,4 @@
+type,max_hp,speed,fighting_style,icon
+Bat,6,7,chaotic,bat.png
+Goblin,8,6,opportunist,goblin.png
+Orc,12,3,berserker,orc.png

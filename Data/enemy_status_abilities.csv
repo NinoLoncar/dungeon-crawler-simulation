@@ -1,0 +1,3 @@
+npc,name,cooldown_duration,status_effect,aoe,friendly_targets,priority,icon
+Bat,Screech,4,Disorientated,true,false,1,screech.png
+Orc,Sucker punch,3,Medium stun,false,false,2,sucker_punch.png

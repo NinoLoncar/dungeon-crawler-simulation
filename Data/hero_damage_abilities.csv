@@ -1,0 +1,10 @@
+npc,name,cooldown_duration,min_dmg,max_dmg,aoe,priority,icon
+warrior,Basic attack,1,2,3,false,1,axe.png
+warrior,Axe swing,3,2,4,true,3,axe_swing.png
+warrior,Headchop,3,5,6,false,3,headchop.png 
+priest,Basic attack,1,1,1,false,1,staff.png
+priest,Holy light,3,3,3,true,3,light.png
+ranger,Basic attack,1,2,3,false,1,bow.png
+ranger,Piercing shot,3,4,5,false,3,piercing_arrow.png
+bard,Basic attack,1,1,1,false,1,lute.png
+
